@@ -5,7 +5,7 @@ I'm Xander, and I work on open source container security tools at [Microsoft](ht
 - [Eraser](https://github.com/Azure/eraser)
 - [Gatekeeper](https://github.com/open-policy-agent/gatekeeper)
 - [Azure Workload ID](https://github.com/Azure/azure-workload-identity)
-- [Kubernetes Secret Store CSI Driver](https://github.com/Azure/azure-workload-identity](https://github.com/Azure/secrets-store-csi-driver-provider-azure)
+- [Kubernetes Secret Store CSI Driver](https://github.com/Azure/secrets-store-csi-driver-provider-azure)
 - And more!
 
 <!--
